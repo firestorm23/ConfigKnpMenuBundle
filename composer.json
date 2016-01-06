@@ -1,9 +1,9 @@
 {
-    "name": "jbouzekri/config-knp-menu-bundle",
+    "name": "firestorm23/config-knp-menu-bundle",
     "type": "symfony-bundle",
-    "description": "Configure your knp menus with yaml files accross your project bundles",
+    "description": "Fork of jbouzekri/ConfigKnpMenuBundle",
     "keywords": ["Knp", "UI", "User Interface", "Menu", "Navigation", "Symfony"],
-    "homepage": "https://github.com/jbouzekri/ConfigKnpMenuBundle",
+    "homepage": "https://github.com/firestorm23/ConfigKnpMenuBundle",
     "license": "MIT",
     "require": {
         "knplabs/knp-menu-bundle": "~2.0",
