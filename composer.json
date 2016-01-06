@@ -1,7 +1,7 @@
 {
     "name": "firestorm23/config-knp-menu-bundle",
     "type": "symfony-bundle",
-    "description": "Fork of jbouzekri/ConfigKnpMenuBundle",
+    "description": "Fork of  jbouzekri/ConfigKnpMenuBundle",
     "keywords": ["Knp", "UI", "User Interface", "Menu", "Navigation", "Symfony"],
     "homepage": "https://github.com/firestorm23/ConfigKnpMenuBundle",
     "license": "MIT",
